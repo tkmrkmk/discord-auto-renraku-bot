@@ -8,7 +8,7 @@ This is an example bot.
 
 ```sh
 npm install
-npm install -g nodemon
+npm install -g nodemon # if not installed
 nodemon
 ```
 
